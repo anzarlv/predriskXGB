@@ -1,0 +1,11 @@
+Package: predriskXGB
+Type: package
+Version: 1.0
+Title: Inferring risk of G3 oligodendroglioma patients from morphometric feature data using survival XGBoost models
+Author: Anzar Alvi
+Description: The predriskXGB package contains a collection of trained models and wrapper functions that facilitate their use
+License: Artistic-2.0
+Encoding: UTF-8
+Depends: R (>= 3.5.0)
+Imports: xgboost
+LazyData: true
